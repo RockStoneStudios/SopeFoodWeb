@@ -2,13 +2,13 @@ importScripts("https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js");
 importScripts("https://www.gstatic.com/firebasejs/8.10.1/firebase-messaging.js");
 
 firebase.initializeApp({
-  apiKey: "AIzaSyCeaw_gVN0iQwFHyuF8pQ6PbVDmSVQw8AY",
-  authDomain: "stackfood-bd3ee.firebaseapp.com",
-  projectId: "stackfood-bd3ee",
-  storageBucket: "stackfood-bd3ee.appspot.com",
-  messagingSenderId: "1049699819506",
-  appId: "1:1049699819506:web:a4b5e3bedc729aab89956b",
-  databaseURL: "...",
+    apiKey: "AIzaSyCZa7_ShNVP84CP_J0PomrfQSmvPpY7_Wo",
+    authDomain: "sopefoods-7e27f.firebaseapp.com",
+    projectId: "sopefoods-7e27f",
+    storageBucket: "sopefoods-7e27f.appspot.com",
+    messagingSenderId: "255294573124",
+    appId: "1:255294573124:android:a52f8e8e3cb2d49750ca11",
+    databaseURL: "..." 
 });
 
 const messaging = firebase.messaging();
